@@ -1,0 +1,2 @@
+# SchoolCourses
+ My programming exercises
